@@ -10,5 +10,5 @@ In the mango-frontend directory:
   3. Run `yarn start` to launch the frontend app on http://localhost:3000/.
 
 ## User credentials
-Username: user1
+Username: user1  
 Password: password
